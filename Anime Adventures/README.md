@@ -1,3 +1,3 @@
 # AA Versions
-Christmas: Main version - v6
-Halloween: Main version - v2
+Christmas: Main version - v7
+Halloween: Main version - v3
