@@ -1,4 +1,4 @@
 # BBGS Versions
-RELEASE - v2
+RELEASE - v3
 
 
